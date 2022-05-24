@@ -44,7 +44,7 @@ public:
 
         
 
-        return stk.empty() ? true : false;
+        if stk.empty() ? true : false;
 
     }
         
